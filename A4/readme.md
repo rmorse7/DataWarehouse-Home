@@ -1,2 +1,2 @@
-Richard Morse (rmm13) and Daniel Quintans (daq2)
+Richard Morse and Daniel Quintans Data WareHouse built in C++
 27 February 2022
